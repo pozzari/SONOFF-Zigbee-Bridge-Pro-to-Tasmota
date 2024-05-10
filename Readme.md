@@ -21,7 +21,7 @@ cc.check()
 
 5- Executar cc.flash() e aguardar 5 a 8 minutos
 
-no terminal devemos ter: <img width="329" alt="image" src="https://github.com/pozzari/SONOFF-Zigbee-Bridge-Pro-to-Tasmota/assets/39385337/dab20cda-e930-469a-b5fb-409f97a14379">
+<br>no terminal devemos ter: <img width="329" alt="image" src="https://github.com/pozzari/SONOFF-Zigbee-Bridge-Pro-to-Tasmota/assets/39385337/dab20cda-e930-469a-b5fb-409f97a14379">
 
 
 6- No zigbee2mqtt adicionamos na parte serial: 
