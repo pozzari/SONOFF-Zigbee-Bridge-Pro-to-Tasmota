@@ -2,7 +2,7 @@ Seguido do https://percy10442.pixnet.net/blog/post/570018748-sonoff-zigbee-bridg
 
 
 1- Ligar a placa em modo Boot
-<img width="308" alt="image" src="https://github.com/pozzari/SONOFF-Zigbee-Bridge-Pro-to-Tasmota/assets/39385337/bed3f59d-a8bb-469e-87d7-6d2af0099961">
+<br><img width="308" alt="image" src="https://github.com/pozzari/SONOFF-Zigbee-Bridge-Pro-to-Tasmota/assets/39385337/bed3f59d-a8bb-469e-87d7-6d2af0099961">
 
 
 2- Ir pro site https://tasmota.github.io/install/ e escolher "development->tasmota32-zigbeebridgegpro" como arquivo
