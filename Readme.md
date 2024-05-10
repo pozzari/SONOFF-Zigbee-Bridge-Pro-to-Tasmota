@@ -1,4 +1,4 @@
-Seguido do https://percy10442.pixnet.net/blog/post/570018748-sonoff-zigbee-bridge
+Seguido do https://percy10442.pixnet.net/blog/post/570018748-sonoff-zigbee-bridge e https://notenoughtech.com/home-automation/tasmota-on-sonoff-zb-bridge-pro/#flash
 
 
 1- Ligar a placa em modo Boot
